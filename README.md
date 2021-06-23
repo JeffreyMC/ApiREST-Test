@@ -20,7 +20,7 @@ Ejemplo:
 		public string Post(Usuario user)
 		{
 			//retorna los datos de usuario
-			return "Nombre: " + user.Nombre + "\nApellidos: " + user.Apellidos + "\nEdad: " + 					user.Edad;
+			return "Nombre: " + user.Nombre + "\nApellidos: " + user.Apellidos + "\nEdad: " + user.Edad;
 		}
 ```
 
