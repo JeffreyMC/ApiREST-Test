@@ -7,6 +7,7 @@ Api sencilla para pruebas utilizando GET y POST
 * Visual Studio 2019
 * Windows 10
 * Lenguaje de programación C#
+* .NET Core
 * Se utilizó Postman para probar el método POST.
 
 ## Observaciones
